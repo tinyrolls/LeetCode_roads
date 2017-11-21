@@ -11,3 +11,7 @@
 3. Longest Substring Without Repeating Characters
     - 字符串处理
     - 计数数组的使用
+
+4. Median of Two Sorted Arrays
+    - （用了比较取巧的方法  insert, sort
+    - 有时间再补上真正解法
