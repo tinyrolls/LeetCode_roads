@@ -15,3 +15,10 @@
 4. Median of Two Sorted Arrays
     - （用了比较取巧的方法  insert, sort
     - 有时间再补上真正解法
+
+5. Longest Palindromic Substring   
+    - 字符串处理方法
+    - 回文数处理
+
+6. ZigZag Conversion
+    
