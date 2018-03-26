@@ -30,5 +30,3 @@ int main() {
     b = s.convert(a, 2);
     cout << b << endl;
 }
-
-// new change
